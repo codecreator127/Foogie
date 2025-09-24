@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://codecreator127.github.io/foogie",
+  "homepage": "https://codecreator127.github.io/Foogie",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
